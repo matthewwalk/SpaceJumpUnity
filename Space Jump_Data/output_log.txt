@@ -1,0 +1,53 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4627
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+Platform assembly: C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mattw\OneDrive\Desktop\SJ\Space Jump_Data\Managed\System.dll (this message is harmless)
+desktop: 2736x1824 60Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.346042 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.248391 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 730.
+Total: 0.870562 ms (FindLiveObjects: 0.100922 ms CreateObjectMapping: 0.106666 ms MarkObjects: 0.627281 ms  DeleteObjects: 0.033640 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.958761 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 730.
+Total: 1.055588 ms (FindLiveObjects: 0.116922 ms CreateObjectMapping: 0.116922 ms MarkObjects: 0.790973 ms  DeleteObjects: 0.019282 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.912608 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 730.
+Total: 1.186459 ms (FindLiveObjects: 0.134563 ms CreateObjectMapping: 0.140717 ms MarkObjects: 0.887383 ms  DeleteObjects: 0.021333 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.903173 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 730.
+Total: 1.131075 ms (FindLiveObjects: 0.127589 ms CreateObjectMapping: 0.109128 ms MarkObjects: 0.871793 ms  DeleteObjects: 0.020512 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1504 -> priority: 1 
+  Thread -> id: 2b24 -> priority: 1 
